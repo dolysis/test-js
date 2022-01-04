@@ -1,3 +1,6 @@
+<!-- Load jquery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dolysis/test-js/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -12,7 +15,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
