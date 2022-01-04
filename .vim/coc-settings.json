@@ -1,0 +1,4 @@
+{
+  "yaml.format.proseWrap": "always"
+  "coc.preferences.formatOnSaveFiletypes": ["markdown"]
+}
