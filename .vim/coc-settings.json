@@ -1,4 +1,5 @@
 {
-  "yaml.format.proseWrap": "always"
-  "coc.preferences.formatOnSaveFiletypes": ["markdown"]
+  "yaml.format.proseWrap": "always",
+  "coc.preferences.formatOnSaveFiletypes": ["markdown"],
+  "prettier.proseWrap": "always"
 }
